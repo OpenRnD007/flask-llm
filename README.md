@@ -93,6 +93,9 @@ Processes the file and returns answers to the questions.
 
 •  500 Internal Server Error: If there is a connection error.
 
+### Installation/Demo 
+[llm-installation.webm](https://github.com/OpenRnD007/flask-llm/assets/107931489/ce97fe10-fc80-458a-9863-7d7dc8c9a0d0)
+
 
 ## License
 This project is licensed under the MIT License.
